@@ -34,7 +34,12 @@ An **AI-powered web scraper agent** that extracts content from websites, stores 
 
 ## 📷 UI Snapshot
 
+### Without FAISS Storage
 <img width="1227" alt="Screenshot 2025-07-01 at 2 18 41 AM" src="https://github.com/user-attachments/assets/d9d0bb78-724f-4546-acc9-cf2e1c2ac5ac" />
+
+### With FAISS Storage
+<img width="1326" alt="Screenshot 2025-07-03 at 8 26 26 PM" src="https://github.com/user-attachments/assets/4ce307fd-77d9-4cbc-9b77-63c785f9bfbf" />
+
 
 ---
 ### Install dependencies
